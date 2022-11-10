@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Laraib Zaman
 - 👀 I’m interested in data science, machine learning, data analysis and further fields related to it 
 - 🌱 I’m currently learning machine learning and Ai 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science and AI projects.
 - 📫 Reach me using my email : laraibzaman11@hotmail.com
 
 <!---
